@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "thingsboard.h": "c",
+        "project_config.h": "c"
+    }
+}
